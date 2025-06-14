@@ -33,5 +33,5 @@ To test all the endpoints, use POSTMAN.
 - MongoEngine
 - bcrypt
 
-  #### Testing:
-  - Postman
+#### Testing:
+- Postman
